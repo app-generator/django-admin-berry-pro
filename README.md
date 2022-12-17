@@ -1,12 +1,15 @@
 # **Django Admin Berry PRO**
 
-Modern template for **Django Admin Interface** coded on top of **Berry PRO**, `premium Boostrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed). It is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Berry` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
+**Django** starter styled with **Berry Dashboard PRO**, a premium `Boostrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed)
+The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
-> Actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
+> 👉 **NOTE**: This product `requires a License` in order to access the theme:
 
-<br>
+**Private REPO**: `git+https://github.com/app-generator/priv-django-admin-berry-pro`
 
-**Links & Resources**
+<br />
+
+## Features: 
 
 - **UI Kit**: Berry BS5 PRO `v1.0.1` by CodedThemes
 - [Django Berry Dashboard](https://github.com/app-generator/django-berry-dashboard-pro) - `sample project`
