@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [1.0.0] 2022-12-20
+### Changes
+
+- STABLE version
+- Berry PRO version `v1.0.2`
+
 ## [0.0.2] 2022-12-17
 ### Changes
 
