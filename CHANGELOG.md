@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.0.5] 2022-12-21
+### Changes
+
+- Update `HOMEpage` Links
+
 ## [1.0.4] 2022-12-21
 ### Changes
 
