@@ -1,6 +1,6 @@
-# **Django Admin Berry PRO**
+# **[Django Admin Berry PRO](https://appseed.us/product/berry-dashboard-pro/django/)**
 
-**Django** starter styled with **Berry Dashboard PRO**, a premium `Boostrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed)
+**Django** starter styled with **[Berry Dashboard PRO](https://appseed.us/product/berry-dashboard-pro/django/)**, a premium `Boostrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed)
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 > 👉 **NOTE**: This product `requires a License` in order to access the theme:
@@ -12,7 +12,7 @@ The product is designed to deliver the best possible user experience with highly
 ## Features: 
 
 - **UI Kit**: Berry BS5 PRO `v1.0.1` by CodedThemes
-- [Django Berry PRO](https://github.com/app-generator/django-berry-dashboard-pro) - `sample project`
+- [Django Berry PRO](https://appseed.us/product/berry-dashboard-pro/django/) - `sample project`
 - **Sections Covered**: 
   - `Admin Section`, reserved for `superusers`
   - `All pages` managed by `Django.contrib.AUTH`
@@ -21,7 +21,7 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
-![Berry Bootstrap 5 - Dark-Mode ready, Open-source Template.](https://user-images.githubusercontent.com/51070104/207091062-e805b36c-663a-4a01-acb8-9c55ab914f4f.jpg)
+![Berry Bootstrap 5 PRO - Premium Template Django Template.](https://user-images.githubusercontent.com/51070104/210833058-be0b3e87-4f2b-4765-b84d-3795ba03c6a1.jpg)
 
 <br />
 
@@ -111,7 +111,27 @@ Access the `admin` section in the browser: `http://127.0.0.1:8000/`
 
 ## Screenshots
 
-@todo
+![Berry Pro - Premium full-stack starter crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/210833261-af09bc29-0894-4d21-84ad-8e8853f8cbe1.jpg)
+
+<br />
+
+> **Django Berry PRO** - `Kanban Board`
+
+![Berry Pro, Kanban Board - Premium full-stack starter crafted by AppSeed](https://user-images.githubusercontent.com/51070104/210833567-e26f67e1-53c8-430a-8add-e4d6c874266a.jpg)
+
+<br />
+
+> **Django Berry PRO** - `Kanban Board`
+
+![Berry Pro, Widgets page - Premium full-stack starter crafted by AppSeed](https://user-images.githubusercontent.com/51070104/210833737-76643967-02f6-4342-9545-1ffaba68343f.jpg)
+
+<br />
+
+> **Django Berry PRO** - `eCommerce`
+
+![Berry Pro, eCommerce page - Premium full-stack starter crafted by AppSeed](https://user-images.githubusercontent.com/51070104/210834456-344fbcb5-4a32-45ed-964e-b808dbc53356.jpg)
+
+<br />
 
 ---
-**Django Admin Berry PRO** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
+**[Django Admin Berry PRO](https://appseed.us/product/berry-dashboard-pro/django/)** - Modern Admin Interface provided by **[AppSeed](https://appseed.us/)**
