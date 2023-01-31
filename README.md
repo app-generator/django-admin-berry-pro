@@ -12,7 +12,8 @@ The product is designed to deliver the best possible user experience with highly
 ## Features: 
 
 - **UI Kit**: Berry BS5 PRO `v1.0.1` by CodedThemes
-- [Django Berry PRO](https://appseed.us/product/berry-dashboard-pro/django/) - `sample project`
+- [Django Berry PRO](https://appseed.us/product/berry-dashboard-pro/django/) - `Product` that uses the library
+  - `Features`: Fully-configured, `CI/CD` via Render
 - **Sections Covered**: 
   - `Admin Section`, reserved for `superusers`
   - `All pages` managed by `Django.contrib.AUTH`
